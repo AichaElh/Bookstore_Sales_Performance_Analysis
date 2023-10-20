@@ -9,3 +9,9 @@ The analysis focuses on key indicators such as total revenue, distribution of re
 Additionally, investigations cover the number of transactions, average basket value, and purchase frequency. 
 
 Further statistical tests are conducted to reinforce the validity of the observations. 
+
+- Exploratory Data Analysis 
+- Business Analysis
+- Visualization
+- Statistical Tests
+  
